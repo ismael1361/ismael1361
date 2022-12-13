@@ -2,6 +2,7 @@
   <a href="https://instagram.com/ismael1361">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ismael1361&hide=stars,prs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael1361&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=ismael1361&layout=compact&langs_count=7&theme=dracula](https://streak-stats.demolab.com/?user=ismael1361&theme=radical&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D)"/>
   </a>
 </div>
 <br/>
