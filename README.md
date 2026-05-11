@@ -2,6 +2,7 @@
   <a href="https://www.linkedin.com/in/ismael-souza-silva-61934a157/">
     <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ismael1361&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismael1361&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="240em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ismael1361&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="240em" src="https://streak-stats.demolab.com?user=ismael1361&theme=radical&border_radius=5&locale=pt-br&date_format=j%20M%5B%20Y%5D&mode=weekly&background=282A36"/>
   </a>
 </div>
